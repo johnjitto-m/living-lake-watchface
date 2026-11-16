@@ -1,0 +1,18 @@
+Artwork licence – Living Lake
+
+Copyright (c) 2026 John Jitto M
+
+The landscape, sky, water, trees, birds, animals, boat, jetty, sign, weather and effect images in
+watchface/src/main/res/drawable/, screenshots/ and media/ are licensed under the
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+licence (CC BY-NC-SA 4.0).
+
+You may share and adapt them for non-commercial purposes, as long as you give
+credit ("Living Lake by John Jitto M") and share your changes under the same
+licence.
+
+Full licence text: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+The fonts in watchface/src/main/res/font/ (lake_*.ttf) are subsets of Inter, and lake_reflect.ttf is a
+modified (mirrored, rippled) version of it. They stay under the SIL Open Font License 1.1 – see
+fonts-licenses/OFL-Inter.txt. The Inter source files in tools/fonts/inter/ are under the same licence.
